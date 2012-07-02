@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="petSadhu">Please, pet my dog!</string>
+    <string name="app_name">Pet Sadhu!</string>
+    <string name="content">Sorry about that! Sadhu must have gotten a little annoyed.</string>
+    <string name="splash">Splash page.</string>
+    <string name="main">"Sadhu loves attention. And I promise he won't bite."</string>
+    <string name="rubdown">"Sadhu prefers a good rub down!  Please click to try again!"</string>
+
+</resources>
