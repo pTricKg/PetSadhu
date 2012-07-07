@@ -28,7 +28,7 @@ public class SadhuContent extends Activity{
 		
 		mButton.start();
 		
-		ImageButton imageButton = (ImageButton) findViewById(R.id.imageView1);
+		ImageButton imageButton = (ImageButton) findViewById(R.id.imageButton1);
 	    imageButton.setOnClickListener(new View.OnClickListener() {
 		public void onClick(View view)
 	      {
